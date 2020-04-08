@@ -5,5 +5,5 @@
   * [my implementation report PDF](https://github.com/garytho/cot-5405-programming-assignment/blob/master/Simulating%20Dynamic%20Random%20Networks.pdf)
   
 ## Paper 2 (Extra Credit): A block-sorting lossless data compression algorithm (1994)
-  * [source code]()
-  * [my implementation report PDF]()
+  * [source code](https://github.com/garytho/cot-5405-programming-assignment/blob/master/bwt_analysis.py)
+  * [my implementation report PDF](https://github.com/garytho/cot-5405-programming-assignment/blob/master/Implementing%20and%20evaluating%20the%20Burrows-Wheeler%20Transform.pdf)
